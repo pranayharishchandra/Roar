@@ -67,7 +67,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 👉 **Visually Appealing Home Page**: A visually appealing home page showcasing the latest threads for an engaging user experience.
 
-👉 **Create Thread Page**: A dedicated page for users to create threads, fostering community engagement
+👉 **Create Thread Page**: A dedicated page for users to create posts, fostering community engagement
 
 👉 **Commenting Feature**: A commenting feature to facilitate discussions within threads.
 
@@ -83,7 +83,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 👉 **Community Member Management**: A user-friendly interface to manage community members, allowing role changes and removals.
 
-👉 **Admin-Specific Community Threads**: Enable admins to create threads specifically for their community.
+👉 **Admin-Specific Community Threads**: Enable admins to create posts specifically for their community.
 
 👉 **Community Search with Pagination**: A community search feature with pagination for exploring different communities.
 
@@ -1348,7 +1348,7 @@ export async function createThread({ text, author, communityId, path }: Params
 
     revalidatePath(path);
   } catch (error: any) {
-    throw new Error(`Failed to create thread: ${error.message}`);
+    throw new Error(`Failed to create post: ${error.message}`);
   }
 }
 
