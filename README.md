@@ -4,12 +4,12 @@ Project is Deployed [here](https://roar-htpf08hwp-pranayharishchandras-projects.
 ## 📋 <a name="table">Table of Contents</a>
 
 <!-- 1. 🤖 [Introduction](#introduction) -->
-1. ⚙️ [Tech Stack](#tech-stack)
-2. 🔋 [Features](#features)
-3. 🤸 [Quick Start](#quick-start)
-4. 🕸️ [Snippets](#snippets)
-5. 🔗 [Links](#links)
-6. 🚀 [More](#more)
+1. [Tech Stack](#tech-stack)
+2. [Features](#features)
+3. [Quick Start](#quick-start)
+4. [Snippets](#snippets)
+5. [Links](#links)
+<!-- 6. 🚀 [More](#more) -->
 
 
 

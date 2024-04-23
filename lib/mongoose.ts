@@ -1,3 +1,4 @@
+/* *BASIC TEMPLATE FOR MONGOOSE CONNECTION IN NEXT */
 import mongoose from "mongoose";
 
 let isConnected = false; // Variable to track the connection status
@@ -19,7 +20,8 @@ export const connectToDB = async () => {
 
     isConnected = true; // Set the connection status to true
     console.log("MongoDB connected");
-  } catch (error) {
+  } 
+  catch (error) {
     console.log(error);
   }
 };

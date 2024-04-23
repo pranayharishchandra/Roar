@@ -34,6 +34,8 @@ const userSchema = new mongoose.Schema({
   ],
 });
 
+/* *after the first time the User collection is created, 
+accessing "mongoose.models.User" will return the user documents*/
 const User = mongoose.models.User || mongoose.model("User", userSchema);
 
 export default User;
