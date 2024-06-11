@@ -54,8 +54,6 @@ Project is Deployed [here](https://roar-htpf08hwp-pranayharishchandras-projects.
 
  **Community Profiles**: Display community profiles showcasing threads and members for a comprehensive overview.
 
- **Figma Design Implementation**: Transform Figma designs into a fully functional application with pixel-perfect and responsive design.
-
  **Blazing-Fast Performance**: Optimal performance and instantaneous page switching for a seamless user experience.
 
  **Server Side Rendering**: Utilize Next.js with Server Side Rendering for enhanced performance and SEO benefits.
